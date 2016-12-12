@@ -20,7 +20,6 @@ All data in Culture Data GO is purposely acquired from cultural institutions in 
 - [Myo for Processing](https://github.com/nok/myo-processing)
 
 ## Questions?
-Feel free to contact me
-Feel free to use -but please let me know 
+Feel free to contact me and feel free to use -but please let me know.
 
 
